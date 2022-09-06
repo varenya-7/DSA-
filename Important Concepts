@@ -7,3 +7,6 @@ int numberOfDigits(int num){
  return (int)(Math.log10(num)) + 1;
 }
 
+=> ORDER-AGNOSTIC BINARY SEARCH
+*It is applied when we don't know weather the given array is Sorted in ascending or descending order
+*So we compare the first and the last element and apply binary search accordingly
