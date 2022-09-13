@@ -10,3 +10,11 @@ int numberOfDigits(int num){
 => ORDER-AGNOSTIC BINARY SEARCH
 *It is applied when we don't know weather the given array is Sorted in ascending or descending order
 *So we compare the first and the last element and apply binary search accordingly
+
+=> Find Length of an Array without Length Function 
+*length=(end - start + 1)
+
+=> BITONIC ARRAY
+*its is the array which is half sorted in ascending order and half sorted in descending order with the middle element as the highest element
+*Not always divided in equal parts parts maybe variable
+
