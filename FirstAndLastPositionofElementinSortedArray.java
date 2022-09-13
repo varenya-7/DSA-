@@ -24,10 +24,10 @@ public class FirstAndLastPositionofElementinSortedArray
         public static int[] searchRange(int[] arr, int target) {
             int ans[]={-1 , -1};
 
-            int ans[0]==search(arr, target ,true);
+             ans[0]=search(arr, target ,true);
              if(ans[0] != -1)
              {
-             int ans[1]=search(arr, target , false);
+              ans[1]=search(arr, target , false);
              }
             return ans;
         }
