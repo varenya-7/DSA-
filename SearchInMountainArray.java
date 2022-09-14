@@ -1,4 +1,4 @@
-package com.kunal;
+package Arrays;
 
 public class SearchInMountain {
     public static void main(String[] args) {
