@@ -20,7 +20,7 @@ public class InfiniteArrayBS {
         int end=1;
         while(target > arr[end]){
             int tmp= end + 1; //new Start position
-            end= end + (end - start + 1) * 2;
+            end= end + (end - start + 1) * 2; //Doubling the array range we want to search in
             start=tmp;
 
         }
