@@ -68,6 +68,8 @@ public class RBS {
         return -1;
     }
 
+    //this will work in duplicate values 
+    
     static int findPivotWithDuplicates(int[] arr) {
         int start = 0;
         int end = arr.length - 1;
