@@ -18,3 +18,9 @@ int numberOfDigits(int num){
 *its is the array which is half sorted in ascending order and half sorted in descending order with the middle element as the highest element
 *Not always divided in equal parts parts maybe variable
 
+=> Quick Sort is better than Merge Sort
+  * as the average case complexity of Quick Sort is better than merge sort
+  * we dont use any extra space by creating an array in quick sort 
+  *Space complexity of Quick Sort os better than Merge Sort
+  *Space Comp of Quick Sort:- O(log n)
+  *Space Comp of Merge Sort:- O(n)
