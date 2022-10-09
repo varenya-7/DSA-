@@ -1,7 +1,7 @@
 Important Concepts
 
 => Shorcut to find Number of Digits
-* if number is negative [num=num * =1;]
+* if number is negative [num=num * -1;]
 
 int numberOfDigits(int num){
  return (int)(Math.log10(num)) + 1;
