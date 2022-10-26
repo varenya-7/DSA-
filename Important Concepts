@@ -24,3 +24,5 @@ int numberOfDigits(int num){
   *Space complexity of Quick Sort os better than Merge Sort
   *Space Comp of Quick Sort:- O(log n)
   *Space Comp of Merge Sort:- O(n)
+
+=> Square root of a number can be calculated using Binary Search
