@@ -32,3 +32,6 @@ Example
   
         
         
+[Euclidean Algorithm]
+*used to calculate GCD using recursion
+GCD ( a , b) = GCD( rem(a , b) , a); 
