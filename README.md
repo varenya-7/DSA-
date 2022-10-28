@@ -17,6 +17,8 @@ Example - (6 * y) % 7 = 1
         
         
 => HcF of [a & b] = minimum positive value of equation (ax +by);
+  *where x & y are the integers
+  
 
         
         
