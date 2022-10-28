@@ -14,11 +14,21 @@ Important concepts of DSA with Solved Questions
 Example - (6 * y) % 7 = 1
         *here y is MMI for 6 && y=6;
         *(6 * 6) % 7 = (36 % 7) = 1 ;
-        
-        
+      
+      
+[DIE HARD PROBLEM STATEMENT]       
 => HcF of [a & b] = minimum positive value of equation (ax +by);
   *where x & y are the integers
   
+=> let a be bucket A
+=> let b be bucket B
 
+ax + by = Total value needed should be divided by the HCF of both bucket
+Example
+3x + 6y = 9
+ 3(x + 3y) = 9
+  (x + 3y) = 9 / 3;
+  :> as 9 is divided by 3 so it is possible that 9 lt jug can be filled by 3 lt and lt jug;
+  
         
         
