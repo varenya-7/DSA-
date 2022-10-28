@@ -35,3 +35,12 @@ Example
 [Euclidean Algorithm]
 *used to calculate GCD using recursion
 GCD ( a , b) = GCD( rem(a , b) , a); 
+
+
+[TO CALCULATE LCM]
+
+* calculate HCF of two numbers and store it in d
+* Now divide d by both a & b and store it in f & g
+* now multiply f * g * d to get the least common Multiple
+
+
