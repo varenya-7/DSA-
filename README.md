@@ -44,3 +44,6 @@ GCD ( a , b) = GCD( rem(a , b) , a);
 * now multiply f * g * d to get the least common Multiple
 
 
+Multiplication of a * b = hcf * lcm of [a & b]
+* it can also be written as LCM = (a * b) / HCF
+
