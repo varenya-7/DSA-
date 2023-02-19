@@ -26,3 +26,6 @@ int numberOfDigits(int num){
   *Space Comp of Merge Sort:- O(n)
 
 => Square root of a number can be calculated using Binary Search
+
+
+=>Lowest common ancestor important in Binary tree
