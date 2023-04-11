@@ -29,3 +29,5 @@ int numberOfDigits(int num){
 
 
 =>Lowest common ancestor important in Binary tree
+
+=> Inorder Traversal of a Binary Search Tree always gives a Sorted Sequence
